@@ -1,0 +1,23 @@
+understand state management
+understand getter and setters
+
+*setters are used to protect the data associated with a class. Setters force users to pass in correct data into the methods, so that way the correct output is returned
+
+* the private keyword is used to allow only the parent class to be able to access the variable
+
+*  variables created in a class are  considered attributes if the class. these attributes of the class are literal in that they would be attributes of an object in reality. ex. Class: laptop, attributes: screensize, cpu, gpu
+
+* the objects are the vitual objects themselves. These objects of the class are defined by methods. ex. class: student object of class: John, mandy, chris
+
+* state management - The concept of storing and accessing data in your react app
+
+* react hooks (abstratced methods) are different methods that allow us to 
+
+* fundamental hook for state management - useState() - note that these hooks are just functions utilized silimilarly to getters. 
+useState(*provide the variables, object arrays, that will change value over the course of program usage*)
+
+*ex. const [student, setStudent] = useState(), this an example of both destructuring and how to properly use the useState() function.
+
+QUESTION: ASK SEN TO EXPLAIN THE ITEM AND SETITEMS VALUES IN THE ARRAY WHEN DESTRUCTING THE USESTATE METHOD.
+
+*
